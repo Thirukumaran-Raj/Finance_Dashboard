@@ -139,7 +139,7 @@ npm run dev
 
 ## 📱 Responsive Design
 
-* Works on mobile, tablet, and desktop
+* Works on tablet and desktop
 * Adaptive grid layouts
 
 ---
