@@ -6,7 +6,7 @@ This application allows users to track income, expenses, and gain smart financia
 ---
 
 ## 🔗 Live Demo
-[Click here to view the live project]([https://finance-dashboard-xxxxx.vercel.app](https://finance-dashboard-tau-olive.vercel.app/))
+[Click here to view the live project] (https://finance-dashboard-tau-olive.vercel.app/)
 
 
 ## ✨ Features
