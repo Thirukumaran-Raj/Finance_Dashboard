@@ -27,7 +27,7 @@ This application allows users to track income, expenses, and gain smart financia
 * 💾 Local storage persistence
 * 📤 Export transactions (CSV / JSON)
 * 🌙 Light & Dark mode toggle
-* 🎯 Responsive UI (Mobile + Desktop)
+* 🎯 Responsive UI (Desktop)
 * 🎨 Premium UI with glassmorphism design
 * ⚡ Smooth animations and transitions
 
